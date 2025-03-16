@@ -11,7 +11,7 @@ This project is a **CV evaluation system** that leverages the **LLaMA-3.3-70B-Ve
 
 ## Demo
 
-![resume Evaluation System](resume_evaluation.gif)
+![resume Evaluation System](llmresumevideo.gif)
 *Example of the CV evaluation system in action, comparing a CV to a job offer.*
 
 ---
@@ -27,7 +27,6 @@ This project is a **CV evaluation system** that leverages the **LLaMA-3.3-70B-Ve
 - **Prompt Engineering**: Advanced prompt design to guide the model's analysis and feedback generation.
 
 
----
 
 ## Installation
 
